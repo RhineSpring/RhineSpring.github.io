@@ -225,3 +225,9 @@ plugins:
   - jemoji
 
 theme: jekyll-text-theme
+
+title: "Rhine的小屋"
+
+description: > # this means to ignore newlines until "nav_lists:"
+记录一些杂碎
+
