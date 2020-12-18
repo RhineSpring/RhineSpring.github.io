@@ -1,6 +1,6 @@
 ---
 title: 利用pageHelper进行分页
-tags: TeXt
+tags: JavaWeb
 ---
 
 首先需要去maven把包地址复制到pom.xml中
