@@ -224,4 +224,4 @@ plugins:
 
 theme: jekyll-text-theme
 
-highlight_theme : tomorrow-night
+highlight_theme : tomorrow-night-eighties
