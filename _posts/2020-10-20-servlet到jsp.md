@@ -13,7 +13,7 @@ tags : JavaWeb
 
 此处用于进行页面跳转的**servlet**的**urlPatterns**为"/topic"：
 
-![img]/images/JspToSev/image-20201014201030039.png)
+![img](/images/JspToSev/image-20201014201030039.png)
 
 所以需要在访问网址上进行补充：
 
